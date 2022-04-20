@@ -1,0 +1,30 @@
+{
+  "style": "horizontal",
+  "layerState": {
+    "Estacionamientos_Sierra_Bermeja_6342": {
+      "selected": true
+    },
+    "18cad15578254472971aa8a002fdf24c": {
+      "selected": true
+    },
+    "455ec23cfc2a47ae92c492f84b9c86c7": {
+      "selected": true
+    },
+    "5267f4b574b54ea5bfdf12a8a714d7f7": {
+      "selected": true
+    },
+    "dac44b3ab47c45fcbaa55dfdab7fc9f1": {
+      "selected": false
+    },
+    "abb875f6b8d948cca08c6795ff0a3413": {
+      "selected": true
+    }
+  },
+  "layer": "Estacionamientos_Sierra_Bermeja_6342",
+  "isZoom": false,
+  "handleColor": "#dadada",
+  "layerMode": "single",
+  "defaultLayers": [],
+  "invertPlacement": false,
+  "isHidePanel": false
+}

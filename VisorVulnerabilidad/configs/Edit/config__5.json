@@ -1,0 +1,102 @@
+{
+  "editor": {
+    "enableUndoRedo": true,
+    "toolbarVisible": true,
+    "toolbarOptions": {
+      "mergeVisible": false,
+      "cutVisible": false,
+      "reshapeVisible": false
+    },
+    "honorSettingOfWebmap": true,
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "Estacionamientos_Sierra_Bermeja_6342"
+        },
+        "disableGeometryUpdate": false,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "Capacidad",
+            "label": "Capacidad",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Nombre_Parking",
+            "label": "Nombre del Parking",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Numero_Parking",
+            "label": "Número del Parking",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "tableInfos": [
+      {
+        "featureLayer": {
+          "id": "Estacionamientos_Sierra_Bermeja_7043"
+        },
+        "disableGeometryUpdate": true,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "Numero_Ocupantes",
+            "label": "Numero_Ocupantes",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "Matricula",
+            "label": "Matricula",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "T_Ocupación",
+            "label": "T_Ocupación",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "N_Parking",
+            "label": "Numero de Parking",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "useFilterEdit": false,
+    "autoApplyEditWhenGeometryIsMoved": false,
+    "snappingTolerance": 15,
+    "popupTolerance": 5,
+    "stickyMoveTolerance": 0,
+    "usingSaveButton": false
+  }
+}
